@@ -1,0 +1,9 @@
+Building SnowballCoin
+
+See doc/readme-qt.rst for instructions on building SnowballCoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SnowballCoin.
+
+See doc/build-*.txt for instructions on building SnowballCoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of SnowballCoin.
